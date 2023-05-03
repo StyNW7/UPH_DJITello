@@ -1,3 +1,8 @@
+from djitellopy import Tello
+
+tello = Tello()
+tello.connect()
+
 # Simple movement sequence
 tello.move_forward(30) # Moves forward 30cm
 tello.move_back(30) # Moves backward 30cm
