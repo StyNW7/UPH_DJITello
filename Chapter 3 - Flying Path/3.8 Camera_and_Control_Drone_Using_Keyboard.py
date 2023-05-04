@@ -1,20 +1,20 @@
-from djitellopy import Tello
-import cv2, math, time
+from djitellopy import Tello # import library
+import cv2, math, time # import library
 
-tello = Tello()
-tello.connect()
+tello = Tello() # define object
+tello.connect() # connect
 
-tello.streamon()
-frame_read = tello.get_frame_read()
+tello.streamon() # tello camera
+frame_read = tello.get_frame_read() # make a variable that stores a frame from the tello's camera
 
-tello.takeoff()
+tello.takeoff() #take off
 
-while True:
-    img = frame_read.frame
-    cv2.imshow("drone", img)
+while True: # looping
+    img = frame_read.frame # make another variable
+    cv2.imshow("drone", img) # show image
 
-    key = cv2.waitKey(1) & 0xff
-    if key == 1:
+    key = cv2.waitKey(1) & 0xff # make a key variable
+    if key == 27: #ESC
         break
     elif key == ord("w"):         
         tello.move_forward(30)     
