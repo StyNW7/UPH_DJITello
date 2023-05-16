@@ -26,7 +26,7 @@ DJI Tello Drone has 3 major sensors, camera, infrared sensor, and proximity sens
 
 ## Chapter V (Machine Learning)
 
-...
+Machine Learning is a very interesting field we learn and in this chapter we will provide many things that can be learn about Machine Learning. We will tell you about Haar Cascade, make or search dataset using Roboflow and Kaggle platform, Google Colaboratory, Jupyter Notebook, and YOLOv5. We will also make an object detection project which is very interesting and there are many things that we can applied in real life about Machine Learning.
 
 ## Chapter VI (Artificial Intelligence)
 
