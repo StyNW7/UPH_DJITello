@@ -10,11 +10,11 @@ A drone which is also regarded as an unmanned aerial vehicle (UAV) is an aircraf
 
 ## Chapter I (Installation)
 
-...
+This chapter will cover all the extensions you need to build your drone program. We will start by installing Python, Github, Copilot, Visual Studio Code, and PIP. These are all the essential items that must be downloaded in your laptop. In the next step, we will give you step by step on how to connect Copilot and Visual Studio Code to make your coding experience easier. 
 
 ## Chapter II (Simple Commands)
 
-...
+Now you are ready to 
 
 ## Chapter III (Flying Path)
 
