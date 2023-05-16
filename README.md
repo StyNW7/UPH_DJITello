@@ -14,7 +14,7 @@ This chapter will cover all the extensions you need to build your drone program.
 
 ## Chapter II (Simple Commands)
 
-Now you are ready to 
+Now you are ready to fly your drone. In this chapter, you will discover many interesting movements your drone can make. Before that, it is important to learn about some commands that help you to import the Tello library, connect your Tello with python, take off, and landing.
 
 ## Chapter III (Flying Path)
 
