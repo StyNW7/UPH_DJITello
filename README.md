@@ -18,11 +18,11 @@ Now you are ready to fly your drone. In this chapter, you will discover many int
 
 ## Chapter III (Flying Path)
 
-...
+Drone flight paths are the routes that drones follow when flying. There are several types of flight paths commonly used in drone operations, such as square flight path, rectangle, triangle, circle, and many others. Besides that, we also provide many custom flight path, like controlling using keyboard, recording video, and others. These are just a few examples of the various flight paths that drones can take. The choice of flight path depends on the specific mission objectives, desired coverage, and the capabilities of the drone and its flight control system. So, just be creative and explore it more and more!
 
 ## Chapter IV (Sensors)
 
-...
+DJI Tello Drone has 3 major sensors, camera, infrared sensor, and proximity sensor. In this chapter we will provide an explanation about these sensors, how to control them, and an example of using each sensor. Sensors inside the drone are very significant, because we can do anything we want using that sensors and in the next chapter we will also learn about something that is very related to camera. So, learn and enjoy every sensor within DJI Tello Drone.
 
 ## Chapter V (Machine Learning)
 
