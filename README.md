@@ -24,14 +24,15 @@ Drone flight paths are the routes that drones follow when flying. There are seve
 
 DJI Tello Drone has 3 major sensors, camera, infrared sensor, and proximity sensor. In this chapter we will provide an explanation about these sensors, how to control them, and an example of using each sensor. Sensors inside the drone are very significant, because we can do anything we want using that sensors and in the next chapter we will also learn about something that is very related to camera. So, learn and enjoy every sensor within DJI Tello Drone.
 
-## Chapter V (Machine Learning)
+## Chapter V (Artificial Intelligence)
 
-Machine Learning is a very interesting field we learn and in this chapter we will provide many things that can be learn about Machine Learning. We will tell you about Haar Cascade, make or search dataset using Roboflow and Kaggle platform, Google Colaboratory, Jupyter Notebook, and YOLOv5. We will also make an object detection project which is very interesting and there are many things that we can applied in real life about Machine Learning.
 
-## Chapter VI (Artificial Intelligence)
+In today's era, technology has advanced significantly, necessitating a fundamental understanding of both technology and computer science. Therefore, this chapter aims to provide an explanation of key concepts such as Artificial Intelligence, Machine Learning, and Deep Learning. Moreover, we will delve into the intricacies of datasets and machine learning models, offering detailed insights into their significance and utilization. By exploring these topics, readers will gain a solid foundation in the field of technology and computer science.
 
-...
+## Chapter VI (Machine Learning)
+
+Machine Learning is an intriguing field with a vast range of topics to explore. In this chapter, we will delve into several aspects of Machine Learning, including Haar Cascade, dataset creation and searching using Roboflow and Kaggle, as well as popular tools like Google Colaboratory and Jupyter Notebook. Additionally, we will discuss YOLOv5, an object detection model. The culmination of this chapter will be an exciting object detection project that showcases practical applications of Machine Learning in real-life scenarios.
 
 ## Chapter VII (Simulation Project)
 
-...
+This final chapter concludes the drone programming manual module, where we will showcase the culmination of all the knowledge we have acquired thus far. In this chapter, we present an engaging and practical drone programming project that incorporates all the concepts covered throughout the module. The project centers around a Search and Rescue program, inspired by real-life scenarios. Through this simulation project, readers will have the opportunity to apply their skills and demonstrate their understanding of drone programming in a meaningful context.
