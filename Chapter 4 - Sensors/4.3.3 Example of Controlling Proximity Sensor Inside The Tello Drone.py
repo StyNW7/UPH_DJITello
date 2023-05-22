@@ -1,9 +1,10 @@
-# Import necessary libraries
+# Import necessary libraries 
 from djitellopy import Tello
 import time
+import cv2
 
-# Connect to Tello drone
-tello = Tello()
+# Connect to Tello drone 
+tello = Tello() 
 tello.connect()
 
 tello.takeoff()
@@ -35,7 +36,8 @@ while sameHeight:
         tello.move_forward(100)
     else:
         tello.move_up(50)
-        sameHeight = False
+    
+    if cv2.waitKey(1) == 27: #ESC
         break
 
 tello.land()
