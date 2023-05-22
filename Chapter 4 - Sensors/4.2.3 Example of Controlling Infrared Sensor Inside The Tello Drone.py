@@ -11,7 +11,7 @@ tello.takeoff()
 
 height = tello.get_distance_tof()
 
-print(height)
+print("Height: " + str(height))
 
 # Check for obstacles
 
@@ -23,7 +23,7 @@ while True:
     else: 
         tello.move_forward(100) # Move forward if no obstacle detected
 
-    print(height)
+    print("Height: " + str(height))
 
     # Maintain the same height
 
@@ -32,7 +32,7 @@ while True:
     elif height <= 80: 
         tello.move_up(20)
 
-    print(height)
+    print("Height: " + str(height))
 
     if cv2.waitKey(1) == 27: #ESC
         break
