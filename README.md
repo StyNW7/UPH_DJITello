@@ -33,6 +33,6 @@ In today's era, technology has advanced significantly, necessitating a fundament
 
 Machine Learning is an intriguing field with a vast range of topics to explore. In this chapter, we will delve into several aspects of Machine Learning, including Haar Cascade, dataset creation and searching using Roboflow and Kaggle, as well as popular tools like Google Colaboratory and Jupyter Notebook. Additionally, we will discuss YOLOv5, an object detection model. The culmination of this chapter will be an exciting object detection project that showcases practical applications of Machine Learning in real-life scenarios.
 
-## Chapter VII (Simulation Project)
+## Chapter VII (Simulation Project) 🧠
 
 This final chapter concludes the drone programming manual module, where we will showcase the culmination of all the knowledge we have acquired thus far. In this chapter, we present an engaging and practical drone programming project that incorporates all the concepts covered throughout the module. The project centers around a Search and Rescue program, inspired by real-life scenarios. Through this simulation project, readers will have the opportunity to apply their skills and demonstrate their understanding of drone programming in a meaningful context.
