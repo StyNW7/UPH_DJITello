@@ -1,7 +1,6 @@
 # UPH_DJITello 🏫
 
 Project made by Clay Hinskie, Jeremiah Edbert Grifith Shite, Keshia Poedjiono, and Stanley Nathanael Wijaya
-=
 
 Project made for educational purpose by Universitas Pelita Harapan
 
